@@ -12,12 +12,14 @@ The project transforms raw historical Paralympics data into meaningful visual re
 The dashboard is designed to help sports analysts, researchers, organizations, and users quickly explore Paralympics statistics through interactive charts, KPI cards, filters, and tables.
 
 3 Tech Stack
+
 Power BI – Data visualization and dashboard creation
 Excel / CSV – Data source
 DAX (Data Analysis Expressions) – Calculated measures and KPIs
 Power Query – Data cleaning and transformation
 
 4 Data Source
+
 Possible sources:
 
 Kaggle Dataset
@@ -25,6 +27,7 @@ Paralympics historical records
 CSV/Excel files
 
 5 Features / Highlights
+
 KPI Cards – Shows Total Medals, Gold Medals, Countries, and Games Duration.
 Example: 29K Total Medals, 11K Gold Medals.
 
@@ -45,6 +48,7 @@ Dynamic Dashboard – All charts interact with each other for better analysis.
 Professional UI Design – Clean dark-themed dashboard for better visualization and user experience.
 
 6 Business Problem
+
 Sports organizations and analysts need a better way to track and compare Paralympics performance across countries and years. Raw data is difficult to analyze manually.
 
 This dashboard solves the problem by:
@@ -54,7 +58,9 @@ Analyzing historical trends
 Supporting data-driven sports analysis and reporting
 
 7 screenshot
+
 Interactive Power BI dashboard analyzing Paralympics medal performance across countries, continents, seasons, and years using KPI cards, charts, filters, and detailed visual insights.
+
 Dashboard Screenshot https://github.com/DikshaRamteke29/paralympics-Dashboard/blob/main/Screenshot%202026-05-15%20185812.png
 
 
