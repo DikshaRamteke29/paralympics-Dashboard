@@ -55,7 +55,7 @@ Supporting data-driven sports analysis and reporting
 
 7 screenshot
 Interactive Power BI dashboard analyzing Paralympics medal performance across countries, continents, seasons, and years using KPI cards, charts, filters, and detailed visual insights.
-Dashboard Screenshot 
+Dashboard Screenshot https://github.com/DikshaRamteke29/paralympics-Dashboard/blob/main/Screenshot%202026-05-15%20185812.png
 
 
 
